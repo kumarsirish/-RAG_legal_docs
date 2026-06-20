@@ -2,9 +2,11 @@ langchain
 langchain-core
 langchain-community
 langchain-qdrant
+langchain-chroma
 langchain-text-splitters
 qdrant-client
 sentence-transformers
+chroma
 transformers
 accelerate
 torch
